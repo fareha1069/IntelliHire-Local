@@ -28,7 +28,7 @@ app = FastAPI(title="IntelliHire AI")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://intelli-hire-5k2g.vercel.app",
+        "https://intelli-hire-local.vercel.app",
         "*"  # allow WebRTC testing
     ],
     allow_credentials=True,

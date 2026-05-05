@@ -17,7 +17,7 @@ import clearCacheRoutes from "./routes/clearCacheRoutes.js"
 const app = express();
 
 app.use(cors({
-    origin: "https://intelli-hire-5k2g.vercel.app",
+    origin: "https://intelli-hire-local.vercel.app",
     credentials: true
 }));
 
