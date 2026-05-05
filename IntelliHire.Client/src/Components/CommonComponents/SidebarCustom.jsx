@@ -43,7 +43,7 @@ const SidebarCustom = () => {
 
     /* 💻 Tablet & Desktop (left sidebar) */
     sm:top-1/2 sm:left-4 sm:-translate-y-1/2
-    sm:h-[70vh] sm:w-[80px]
+    sm:h-[75vh] sm:w-[80px]
     sm:flex-col sm:justify-start
     sm:gap-15 sm:py-6
 

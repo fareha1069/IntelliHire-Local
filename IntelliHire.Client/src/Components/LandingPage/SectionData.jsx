@@ -13,7 +13,7 @@ export const sectionsData = [
   {
     id: "candidates",
     heading: "Take Control of Your Career with IntelliHire",
-    paragraph: "IntelliHire gives candidates a transparent, interactive, and insightful interview experience. By creating an account, you can view all your scheduled interviews, take them seamlessly through the AI-powered platform, and track your performance over time. Receive clear feedback, understand your strengths, and identify areas for improvement, all in one place.",
+    paragraph: "IntelliHire delivers seamless, AI-powered interviews from start to finish. A human-like voice agent conducts conversations using speech-to-text and text-to-speech, asking questions, clarifying responses, and following up naturally in real time.It then evaluates candidate performance and provides structured insights, all within a secure platform with protected personal data and a clean, responsive interface",
     image: candidate,
     reverse: true, // image left, text right
     // buttonText : "See your progress"

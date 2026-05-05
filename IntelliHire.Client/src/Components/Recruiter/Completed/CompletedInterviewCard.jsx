@@ -71,7 +71,7 @@ const CompletedInterviewCard = ({ interview }) => {
 
                 <div className="flex items-center gap-2">
                     <FontAwesomeIcon icon={faUser} />
-                    <span>{interview.candidateProfile?.name}</span>
+                    <span>{interview.Candidate}</span>
                 </div>
 
             </div>

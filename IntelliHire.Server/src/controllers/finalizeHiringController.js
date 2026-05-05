@@ -177,7 +177,7 @@ export const finalizeHiring = async (req, res) => {
         
 
             // const link = `https://intelli-hire-5k2g.vercel.app/auth?token=${token}`;
-            const link = `https://intelli-hire-5k2g.vercel.app/auth?token=${token}&interviewId=${interview.id}`;
+            const link = `https://intelli-hire-local.vercel.app/auth?token=${token}&interviewId=${interview.id}`;
             // ================= EMAIL PAYLOAD =================
             emailPayload.push({
                 email: r.contact_info?.email,
