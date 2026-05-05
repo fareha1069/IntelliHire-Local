@@ -171,7 +171,7 @@ export default function PrintReport() {
                   }}
                 >
                   <p><strong>Q{i + 1}:</strong> {q.question}</p>
-                  <p><strong>Feedback:</strong> {q.feedback}</p>
+                  <p><strong>Feedback:</strong> {q.notes}</p>
                   <p><strong>Score:</strong> {q.score}</p>
                 </div>
               ))}
